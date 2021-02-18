@@ -22,7 +22,7 @@ h1{
     text-align: center;
 }
 img{
-    width:500px;
+    max-width: 350px;
     border: 10px solid lightgrey;
     margin: auto;
     display: block;
