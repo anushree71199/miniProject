@@ -1,6 +1,6 @@
 I took on a challenge to complete 11 Mini Projects on Javascript.
 
-You can find the projects [here](https://10projects1hour.netlify.app/).
+You can find the projects [here](https://11-mini-projects.netlify.app/).
 
 1. Hamburger Button
 
